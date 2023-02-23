@@ -1,6 +1,6 @@
 module.exports = {
     github: "romanwashere",
-    instagram: "roman.inc",
+    instagram: "ugur_b_0",
     discord: {
         username: "'Roman",
         id: "622350390871982080",
