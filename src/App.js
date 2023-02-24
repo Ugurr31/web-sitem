@@ -6,7 +6,6 @@ const App = () => {
     <div className="App">
      <div className="topnav">
       <a target="_blank" href={`}`}> <i className="fa fa-fw fa-" /> </a>
-      <a target="_blank" href={`}`}> <y className="fa fa-fw fa-" /> </a>
       <a href="javascript:void(0);" className="icon">
         <i className="fa fa-bars" onClick={(e) => alert("Coming soon") }>
         </i>
@@ -26,14 +25,13 @@ const App = () => {
             My Discord address
           </a>
         <a target="_blank" href={`https://www.youtube.com/${youtube}`} className="button-yt">
-          <i className="fa fa-youtube"></y> Youtube
-
+          Youtube
+           </a>
         <a target="_blank" href={`https://www.instagram.com/${instagram}`} className="button-ig">
           <i className="fa fa-instagram"></i> Instagram
         </a>
       </div>
     </div>
-</div>
   )
 }
 
