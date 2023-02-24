@@ -1,11 +1,11 @@
 import "./App.css"
-import { instagram, discord, website } from "./config.roman";
+import {youtube, instagram, discord, website } from "./config.roman";
 //yaptım?
 const App = () => {
   return (
     <div className="App">
      <div className="topnav">
-      <a target="_blank" href={`}`}> <i className="fa fa-fw fa-" /> </a>
+      <a target="_blank" href={`https://youtube.com/${youtube}`}> <i className="fa fa-fw fa-youtube" /> Youtube</a>
       <a href="javascript:void(0);" className="icon">
         <i className="fa fa-bars" onClick={(e) => alert("Coming soon") }>
         </i>
