@@ -1,5 +1,5 @@
 import "./App.css"
-import { instagram, discord, website } from "./config.roman";
+import { instagram, discord, youtube, website } from "./config.roman";
 //yaptım?
 const App = () => {
   return (
@@ -24,6 +24,9 @@ const App = () => {
         <a target="_blank" href={`https://discord.com/users/${discord.id}`} className="button-dc">
             My Discord address
           </a>
+        <a target="_blank" href={`https://www.youtube.com/${youtube}`} className="button-yt">
+          <i className="fa fa-youtube"></i> Youtube
+        </a>
         <a target="_blank" href={`https://www.instagram.com/${instagram}`} className="button-ig">
           <i className="fa fa-instagram"></i> Instagram
         </a>
