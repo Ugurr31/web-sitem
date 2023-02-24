@@ -1,6 +1,7 @@
 module.exports = {
    
     instagram: "ugur_b_0",
+youtube: "https://www.youtube.com/channel/UC2-GCDyqmoR69bygJGV54Cw",
     discord: {
         username: "Uğur",
         id: "914146025621577750",
