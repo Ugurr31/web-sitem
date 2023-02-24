@@ -25,7 +25,7 @@ const App = () => {
             My Discord address
           </a>
         <a target="_blank" href={`https://www.youtube.com/${youtube}`} className="button-yt">
-          <i className="fa fa-youtube"></y> Youtube
+          <i className="fa fa-youtube"></o> Youtube
         </a>
         <a target="_blank" href={`https://www.instagram.com/${instagram}`} className="button-ig">
           <i className="fa fa-instagram"></i> Instagram
