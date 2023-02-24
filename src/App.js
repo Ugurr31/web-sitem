@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="App">
      <div className="topnav">
-      <a target="_blank" href={`}`}> <i className="fa fa-fw fa-github" /> Github</a>
+      <a target="_blank" href={`}`}> <i className="fa fa-fw fa-github" /> </a>
       <a href="javascript:void(0);" className="icon">
         <i className="fa fa-bars" onClick={(e) => alert("Coming soon:d") }>
         </i>
