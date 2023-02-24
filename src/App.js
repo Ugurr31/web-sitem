@@ -1,11 +1,11 @@
 import "./App.css"
-import { github, instagram, discord, website } from "./config.roman";
+import { instagram, discord, website } from "./config.roman";
 //yaptım?
 const App = () => {
   return (
     <div className="App">
      <div className="topnav">
-      <a target="_blank" href={`https://github.com/${github}`}> <i className="fa fa-fw fa-github" /> Github</a>
+      <a target="_blank" href={`}`}> <i className="fa fa-fw fa-github" /> Github</a>
       <a href="javascript:void(0);" className="icon">
         <i className="fa fa-bars" onClick={(e) => alert("Coming soon:d") }>
         </i>
