@@ -20,7 +20,7 @@ const App = () => {
         <p>{website.description}</p>
       </div>
 
-      
+      <div className="profile">
         <a target="_blank" href={`https://discord.com/users/${discord.id}`} className="button-dc">
           <i className="fa fa-discord"></i> Discord
           </a>
