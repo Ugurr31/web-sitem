@@ -22,13 +22,10 @@ const App = () => {
 
       <div className="profile">
         <a target="_blank" href={`https://discord.com/users/${discord.id}`} className="button-dc">
-          <i className="fa fa-discord"></i> Discord
+            Discord
           </a>
         <a target="_blank" href={`https://www.instagram.com/${instagram}`} className="button-ig">
           <i className="fa fa-instagram"></i> Instagram
-        </a>
-        <a target="_blank" href={`https://youtube.com/${youtube}`} className="button-yt">
-          <i className="fa fa-youtube"></i> Youtube
         </a>
       </div>
     </div>
