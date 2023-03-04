@@ -156,7 +156,7 @@ body {
 
 .button-ig:hover {
     background: url("./instagram.jpg");
-background: url("./youtube.jpg");
+background: url("./youtube.png");
     background-size: 256px;
     color: white
 }
