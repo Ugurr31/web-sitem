@@ -159,16 +159,8 @@ body {
     background-size: 256px;
     color: white
 }
-.button-yt:hover {
-    background: url("./youtube.png");
-    background-size: 256px;
-    color: white
-}
 
 .button-ig i {
-    font-size: 25px;
-}
-.button-dc y {
     font-size: 25px;
 }
 
