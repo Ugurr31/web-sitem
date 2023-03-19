@@ -5,7 +5,7 @@ module.exports = {
     discord: {
         username: "Uğur",
         id: "914146025621577750",
-        avatarURL: "https://images-ext-1.discordapp.net/external/QrWScwq5aEVXDhtIm-EA6SOtrXLpPHkWFt0VCuhvkvg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/914146025621577750/a_254f7deea6e73c373c9cd15baeccb797.gif"
+        avatarURL: "https://cdn.discordapp.com/attachments/1072456584514510888/1087101255022813295/logo.gif"
     },
     website: {
         description: "Hello! My name is Uğur. I am 18 years old, I live in Turkey and I am a high school student."
